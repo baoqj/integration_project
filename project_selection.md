@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=YdBy9-0pER4
 
 
 
-## Complete MERN Stack Project: Build a Hotel Booking App Like a Pro Developer Step-by-Step Course 2024
+## 1. Complete MERN Stack Project: Build a Hotel Booking App Like a Pro Developer Step-by-Step Course 2024
 
 https://www.youtube.com/watch?v=YdBy9-0pER4
 
@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=YdBy9-0pER4
 - outro - congrats & thanks for watching
 
 
-## Full Stack Food Ordering Application: React JS MongoDB Express Node JS Stripe
+## 2. Full Stack Food Ordering Application: React JS MongoDB Express Node JS Stripe
 https://www.youtube.com/watch?v=sZvCvxLlcqA
 
 #### Tech Stack Used:
@@ -73,13 +73,13 @@ https://www.youtube.com/watch?v=sZvCvxLlcqA
 7. ShadcnUI: for stylish and responsive user interfaces
 
 
-## Full Stack E-Commerce Website Using React JS, MongoDB, Express Js, Node Js , Material UI 2024
+## 3. Full Stack E-Commerce Website Using React JS, MongoDB, Express Js, Node Js , Material UI 2024
 https://www.youtube.com/watch?v=I3jCsVgf564&list=PLhFBHuT4t3aBL59pIGo13H4tUVzS_GlYm
 
 a full stack eCommerce website using (MERN) React JS, MongoDB, Express and Node JS or Online Store using React JS. We will make the e-commerce front-end website to display products, product cart and login registration page using React JS.
 
 Then we will make the back-end of the website using express, node js, mongo db and react js. Where we will create the APIs to add product, display product, update product, update cart items and login registration API. We will also make the admin panel of our eCommerce website to add product, update product on our e-commerce website.
 
-## E-commerce Dashboard MERN stack React and node js project
+## 4. E-commerce Dashboard MERN stack React and node js project
 https://www.youtube.com/watch?v=EAkLuk-4KuI&list=PL8p2I9GklV45Oiq7svCLT2xmOoCogUgrO
 
