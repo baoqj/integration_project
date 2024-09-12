@@ -1,19 +1,3 @@
-I found several MERN stack front-end and back-end tutorials
-
-1. E-commerce Dashboard MERN stack React and node js project
-https://www.youtube.com/watch?v=EAkLuk-4KuI&list=PL8p2I9GklV45Oiq7svCLT2xmOoCogUgrO
-
-2. Full Stack E-Commerce Website Using React JS, MongoDB, Express Js, Node Js , Material UI 2024
-https://www.youtube.com/watch?v=I3jCsVgf564&list=PLhFBHuT4t3aBL59pIGo13H4tUVzS_GlYm
-
-3. Full Stack Food Ordering Application: React JS MongoDB Express Node JS Stripe
-https://www.youtube.com/watch?v=sZvCvxLlcqA
-
-4. Complete MERN Stack Project: Build a Hotel Booking App Like a Pro Developer Step-by-Step Course 2024
-https://www.youtube.com/watch?v=YdBy9-0pER4
-
-
-
 ## 1. Complete MERN Stack Project: Build a Hotel Booking App Like a Pro Developer Step-by-Step Course 2024
 
 https://www.youtube.com/watch?v=YdBy9-0pER4
